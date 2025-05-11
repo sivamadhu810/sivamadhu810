@@ -24,7 +24,9 @@
 
 ---
 
-  𝐏𝐫𝐨𝐣𝐞𝐜𝐭𝐬
+  ### 👨‍💻𝐏𝐫𝐨𝐣𝐞𝐜𝐭𝐬
+  ### 🌮 [Nifty REstuarent](https://github.com/sivamadhu810/RESTUARENT-WEBSITE)
+![KPI Dashboard](https://github.com/yourusername/yourrepo/raw/main/path/to/dashboard-image.png)
 
 ---
 
@@ -37,6 +39,9 @@
 - 📱 [Nifty Threads](https://github.com/sivamadhu810/NIFTY-THREADS-FSHION-WEBSITE) – Clothing brand website built with React
 - 🍽️ [Nifty Restaurant](https://github.com/sivamadhu810/RESTUARENT-WEBSITE) – Restaurant website built using HTML, CSS, JS
 - 🧰 [Nifty Bakery](https://github.com/sivamadhu810/NIFTY-CAKES-BAKERY-WEBSITE) – amazing bakery website!
+
+---
+
 
 ---
 
