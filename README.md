@@ -49,5 +49,4 @@
 ### 📫 Connect with Me
 - <a href="https://www.linkedin.com/in/sivamadhu810/"><img src="https://skillicons.dev/icons?i=linkedin" alt="Tech stack icons" /> </a>
 - <a href="https://sivamadhu810.github.io/SIVA-MADHU-PORTFOLIO/"><img src="https://skillicons.dev/icons?i=crystal" alt="Tech stack icons" /> </a>
-- <a href="https://www.naukri.com/mnjuser/profile?id=&altresid"><img src="https://skillicons.dev/icons?i=naukari" alt="Tech stack icons" /> </a>
 - <a href="mailto:sivamadhu810@gmail.com"><img src="https://skillicons.dev/icons?i=gmail" alt="Tech stack icons" /> </a>
