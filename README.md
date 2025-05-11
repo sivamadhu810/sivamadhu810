@@ -47,5 +47,5 @@
 ---
 
 ### 📫 Connect with Me
-- <img src="https://skillicons.dev/icons?i=linkedin" alt="Tech stack icons" "https://www.linkedin.com/in/sivamadhu810/" /> 
-- 💼 [LinkedIn](https://www.linkedin.com/in/sivamadhu810/)
+- <a href="https://www.linkedin.com/in/sivamadhu810/"><img src="https://skillicons.dev/icons?i=linkedin" alt="Tech stack icons" /> </a>
+- <a href="#"><img src="https://skillicons.dev/icons?i=crystal" alt="Tech stack icons" /> </a>
