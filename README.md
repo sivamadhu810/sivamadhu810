@@ -1,6 +1,7 @@
-<h3 align="center">
-  <marquee behavior="scroll" direction="left">👋 Hi there, I'm Siva Madhu</marquee>
+ <h3 align="center">
+  <img src="https://readme-typing-svg.demolab.com/?lines=Hi+there,+I'm+Siva+Madhu!;Welcome+to+my+GitHub+profile!&center=true&width=500&height=45&color=FFD700&size=24" alt="👋 Hi there, I'm Siva Madhu" />
 </h3>
+
 
 🎯 I’m a passionate **Frontend Developer** with experience in:
 - 💻 HTML, CSS, JavaScript
