@@ -43,16 +43,9 @@
 
 ---
 
-### 📌 Projects
-- 📱 [Nifty Threads](https://github.com/sivamadhu810/NIFTY-THREADS-FSHION-WEBSITE) – Clothing brand website built with React
-- 🍽️ [Nifty Restaurant](https://github.com/sivamadhu810/RESTUARENT-WEBSITE) – Restaurant website built using HTML, CSS, JS
-- 🧰 [Nifty Bakery](https://github.com/sivamadhu810/NIFTY-CAKES-BAKERY-WEBSITE) – amazing bakery website!
-
----
-
 
 ---
 
 ### 📫 Connect with Me
-- 🌐 [Portfolio Website](https://sivamadhu810.github.io/SIVA-MADHU-PORTFOLIO/)
+- <img src="https://skillicons.dev/icons?i=linkedin" alt="Tech stack icons" /> [Portfolio Website](https://sivamadhu810.github.io/SIVA-MADHU-PORTFOLIO/)
 - 💼 [LinkedIn](https://www.linkedin.com/in/sivamadhu810/)
