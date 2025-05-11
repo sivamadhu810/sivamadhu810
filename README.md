@@ -47,5 +47,5 @@
 ---
 
 ### 📫 Connect with Me
-- <img src="https://skillicons.dev/icons?i=linkedin" alt="Tech stack icons" /> [Portfolio Website](https://sivamadhu810.github.io/SIVA-MADHU-PORTFOLIO/)
+- <img src="https://skillicons.dev/icons?i=linkedin" alt="Tech stack icons" <link="https://www.linkedin.com/in/sivamadhu810/> /> 
 - 💼 [LinkedIn](https://www.linkedin.com/in/sivamadhu810/)
