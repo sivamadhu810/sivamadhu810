@@ -1,4 +1,6 @@
-<h1 align="center">Hi there, I'm Sivamadhu 👋</h1>
+<h3 align="center">
+  <marquee behavior="scroll" direction="left">👋 Hi there, I'm Siva Madhu</marquee>
+</h3>
 
 🎯 I’m a passionate **Frontend Developer** with experience in:
 - 💻 HTML, CSS, JavaScript
@@ -18,6 +20,10 @@
 - Python Full Stack Development
 - Django + REST Framework
 - Advanced JavaScript (ES6+)
+
+---
+
+  𝐏𝐫𝐨𝐣𝐞𝐜𝐭𝐬
 
 ---
 
