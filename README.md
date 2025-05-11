@@ -26,7 +26,7 @@
 
   ### 👨‍💻𝐏𝐫𝐨𝐣𝐞𝐜𝐭𝐬
   ### 🌮 [Nifty REstuarent](https://github.com/sivamadhu810/RESTUARENT-WEBSITE)
-![KPI Dashboard](https://github.com/yourusername/yourrepo/raw/main/path/to/dashboard-image.png)
+![Nifty mainboard](https://i.postimg.cc/d0j0tPfc/neftyrestuarent-jpg.png)
 
 ---
 
