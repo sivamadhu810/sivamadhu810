@@ -25,8 +25,13 @@
 ---
 
   ### 👨‍💻𝐏𝐫𝐨𝐣𝐞𝐜𝐭𝐬
-  ### 🌮 [Nifty REstuarent](https://github.com/sivamadhu810/RESTUARENT-WEBSITE)
+   🌮 [Nifty Restuarent](https://github.com/sivamadhu810/RESTUARENT-WEBSITE)
 ![Nifty mainboard](https://i.postimg.cc/d0j0tPfc/neftyrestuarent-jpg.png)
+
+ 
+   👕 [Nifty THreads](https://github.com/sivamadhu810/NIFTY-THREADS-FSHION-WEBSITE)
+![Nifty Threads Dashboard](https://i.postimg.cc/MTc1Fm5L/Screenshot-2025-02-10-174403.png)
+
 
 ---
 
