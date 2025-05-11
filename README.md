@@ -32,6 +32,9 @@
    👕 [𝐍𝐢𝐟𝐭𝐲 𝐓𝐡𝐫𝐞𝐚𝐝𝐬](https://github.com/sivamadhu810/NIFTY-THREADS-FSHION-WEBSITE)
 ![Nifty Threads Dashboard](https://i.postimg.cc/MTc1Fm5L/Screenshot-2025-02-10-174403.png)
 
+ ---
+  🍰 [𝐍𝐈𝐅𝐓𝐘 𝐂𝐀𝐊𝐄𝐒 𝐁𝐀𝐊𝐄𝐑𝐘 𝐖𝐄𝐁𝐒𝐈𝐓𝐄](https://github.com/sivamadhu810/NIFTY-CAKES-BAKERY-WEBSITE)
+![Nifty Threads Dashboard](https://i.postimg.cc/0Qm0NCSw/nifty-cakes.png)
 
 ---
 
